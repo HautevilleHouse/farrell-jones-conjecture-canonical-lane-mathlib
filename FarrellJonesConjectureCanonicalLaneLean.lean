@@ -1,0 +1,7 @@
+-- This module is the root of the FarrellJonesConjectureCanonicalLaneLean Lean proof package.
+import FarrellJonesConjectureCanonicalLaneLean.Basic
+import FarrellJonesConjectureCanonicalLaneLean.SourcePackage
+import FarrellJonesConjectureCanonicalLaneLean.SourceDependencies
+import FarrellJonesConjectureCanonicalLaneLean.Formalization
+import FarrellJonesConjectureCanonicalLaneLean.ReviewerBridge
+import FarrellJonesConjectureCanonicalLaneLean.TheoremStatement
